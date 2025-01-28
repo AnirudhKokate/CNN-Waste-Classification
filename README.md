@@ -1,1 +1,1 @@
-# CNN-Waste-Classification
+# CNN-Waste-Classification (Week 2 Progress)
